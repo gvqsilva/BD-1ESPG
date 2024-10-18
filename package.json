@@ -1,14 +1,14 @@
 {
-  "temperatura":[
-    {"time":"17/12 5h","value":27},
-    {"time":"17/12 8h","value":50},
-    {"time":"17/12 4h","value":26},
-    {"time":"17/12 3h","value":25},
-    {"time":"17/12 5h","value":24},
-    {"time":"17/12 1h","value":27},
-    {"time":"17/12 2h","value":27},
-    {"time":"17/12 7h","value":29},
-    {"time":"17/12 9h","value":30}
-  ],
-  "produtos":[]
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "name": "dados",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wellington Cidade",
+  "license": "ISC",
+  "description": ""
 }
